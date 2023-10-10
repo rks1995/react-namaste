@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is Namaste React by Ratna Kumar",
   "scripts": {
+    "dev": "parcel episode1/index.html",
+    "build": "parcel build episode1/index.html",
     "test": "jest"
   },
   "repository": {
